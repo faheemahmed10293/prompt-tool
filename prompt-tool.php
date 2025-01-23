@@ -2,7 +2,7 @@
 /*
 Plugin Name: Prompt Tool
 Plugin URI: https://yourtabula.com/
-Description: A simple custom plugin to generate a prompt to learn LLM's using the OpenAI API.
+Description: A simple custom plugin to craft Brand-Aligned LLM Instructions in Seconds.
 Version: 1.0
 Author: Faheem Ahmed
 */
